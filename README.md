@@ -1,2 +1,5 @@
-# cricketpulse
-Elevate your cricket experience with CricketPulse. Designed for fans who want more than just a scorecard, our app uses advanced data modeling to provide deep insights into every match.
+#CricketPulse
+Advanced cricket data insights and match-up engine.
+
+## Support
+If you have any questions, issues, or feedback regarding the app, please open an "Issue" in this repository or contact me at abhaygrowmore@gmail.com.
